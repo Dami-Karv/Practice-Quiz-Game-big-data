@@ -1,4 +1,4 @@
-# 485 Quiz - Machine Learning Assessment Platform
+# hy485 Quiz app
 
 A comprehensive quiz application for machine learning topics including NumPy, pandas, neural networks, CNNs, RNNs, transformers, and more.
 
